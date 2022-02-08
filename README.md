@@ -50,7 +50,7 @@
 [Simple Icons](https://simpleicons.org/)   
 [emojipedia](https://emojipedia.org/)
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fumingming&count_bg=%2328394A&title_bg=%2328394A&icon=&icon_color=%23E7E7E7&title=%E2%9C%A8&edge_flat=false)](https://hits.seeyoufarm.com)
+![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fumingming&count_bg=%2328394A&title_bg=%2328394A&icon=&icon_color=%23E7E7E7&title=%E2%9C%A8&edge_flat=false)
 
 </div>
 
