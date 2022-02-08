@@ -1,4 +1,4 @@
-<div align="center" width="1200px">
+<div align="center" width="1500px">
 
 
 # 🌱 YOU + ME 🌱
