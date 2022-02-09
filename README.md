@@ -41,7 +41,7 @@
   
 ### 🔔 Contact
 <a href="mailto:u_0112@naver.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"></a>
-<a href="http://umingming.github.io/portfolio" target="_blank"><img src="https://img.shields.io/badge/Portfolio-181717?style=flat-square&logo=GitHub&logoColor=white"></a>
+<a href="http://umingming.github.io/Portfolio" target="_blank"><img src="https://img.shields.io/badge/Portfolio-181717?style=flat-square&logo=GitHub&logoColor=white"></a>
 </br></br>
 
 ### 🔎 References   
