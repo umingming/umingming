@@ -15,10 +15,8 @@
 </br></br>
 
 ### 📌 Practice Repository
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=umingming&repo=JavaTest&theme=vue&cache_seconds=1800)](https://github.com/umingming/JavaTest)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=umingming&repo=SqlTest&theme=vue&cache_seconds=1800)](https://github.com/umingming/SqlTest)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=umingming&repo=ClientTest&theme=vue&cache_seconds=1800)](https://github.com/umingming/ClientTest)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=umingming&repo=Spring&theme=vue&cache_seconds=1800)](https://github.com/umingming/Spring)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lh0156&repo=Algorithm-Team&theme=vue&cache_seconds=1800)](https://github.com/lh0156/Algorithm-Team)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=umingming&repo=CloneCoding&theme=vue&cache_seconds=1800)](https://github.com/umingming/CloneCoding)
 </br></br>
 
 ### 🔨 Stack
