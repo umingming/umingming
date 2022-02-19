@@ -5,11 +5,11 @@
   
 </div>  
   
-# 💖YOU + ME💖
+# YOU + ME
 
-  
-[![umingming's GitHub stats](https://github-readme-stats.vercel.app/api?username=umingming&show_icons=true&theme=vue&hide=stars)](https://github.com/umingming)
-[![umingming's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=umingming&show_icons=true&hide_border=true&title_color=28394A&icon_color=5FC397&layout=compact)](https://github.com/umingming)  
+[![umingming's github stats](https://github-readme-stats.vercel.app/api?username=umingming&count_private=true&bg_color=10,34a0a4,52b69a,b5e48c&title_color=fff&text_color=fff&layout=compact&hide=stars)](https://github.com/umingming)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=umingming&show_icons=true&hide_border=true&bg_color=10,b5e48c,52b69a,34a0a4&title_color=fff&text_color=fff&icon_color=5FC397&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 </br></br>
 
 ### Project💻
