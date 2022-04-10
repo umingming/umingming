@@ -23,7 +23,7 @@
 
 ### Practice📝
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lh0156&repo=Algorithm-Team&theme=vue&cache_seconds=1800)](https://github.com/lh0156/Algorithm-Team)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=umingming&repo=Certificate&theme=vue&cache_seconds=1800)](https://github.com/umingming/Certificate)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=umingming&repo=ComputerScienceTeam&theme=vue&cache_seconds=1800)](https://github.com/umingming/ComputerScienceTeam)
 </br></br> 
 
 
