@@ -15,10 +15,10 @@
 </br></br>
 
 ### Project💻
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=umingming&repo=Haenam&theme=vue&cache_seconds=1800)](https://github.com/umingming/Hanam)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=umingming&repo=Daebak&theme=vue&cache_seconds=1800)](https://github.com/umingming/Daebak)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=umingming&repo=Goguma&theme=vue&cache_seconds=1800)](https://github.com/umingming/Goguma)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=umingming&repo=DragonLand&theme=vue&cache_seconds=1800)](https://github.com/umingming/DragonLand)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=umingming&repo=DragonCenter&theme=vue&cache_seconds=1800)](https://github.com/umingming/DragonCenter) 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=umingming&repo=DeepRoot&theme=vue&cache_seconds=1800)](https://github.com/umingming/DeepRoot)  
 </br></br>
 
 ### Practice📝
