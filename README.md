@@ -11,6 +11,7 @@
 </div>
 
 ---
+<br />
 
 ## About Me
 
@@ -27,29 +28,4 @@
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
   <img src="https://img.shields.io/badge/Vue-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white" alt="Vue" />
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=111111" alt="React" />
-</div>
-
-## Featured Projects
-
-### Portfolio
-
-개발자 이유미의 웹 포트폴리오입니다. 직접 구성한 화면과 프로젝트 소개를 담아, 저다운 작업 방식을 보여주도록 만들었습니다.
-
-`Vue 2`
-
-[Live Demo](https://youme-portfolio.netlify.app) · [Repository](https://github.com/umingming/Portfolio)
-
-### ReadMe
-
-마크다운과 README 구성을 연습하고, 프로젝트 문서를 더 보기 좋게 정리하기 위해 만든 저장소입니다.
-
-`Markdown`
-
-[Repository](https://github.com/umingming/ReadMe)
-
-## GitHub Stats
-
-<div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=umingming&show_icons=true&theme=default&hide_border=true&title_color=2F4858&icon_color=5B7C99&text_color=4A4A4A" alt="GitHub stats" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=umingming&layout=compact&theme=default&hide_border=true&title_color=2F4858&text_color=4A4A4A" alt="Top languages" />
 </div>
