@@ -53,11 +53,3 @@
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=umingming&show_icons=true&theme=default&hide_border=true&title_color=2F4858&icon_color=5B7C99&text_color=4A4A4A" alt="GitHub stats" />
   <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=umingming&layout=compact&theme=default&hide_border=true&title_color=2F4858&text_color=4A4A4A" alt="Top languages" />
 </div>
-
-## Contact
-
-- Portfolio: https://youme-portfolio.netlify.app
-- GitHub: https://github.com/umingming
-- Project Log: https://www.notion.so/yumding/ba9d647f152e4e2ca5963190f9d9ea6d
-
----
