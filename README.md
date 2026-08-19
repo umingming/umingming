@@ -4,7 +4,7 @@
 
 사용자 경험을 소중히 생각하며, 차분하고 보기 좋은 웹 화면을 만드는 개발자 이유미입니다.
 
-[![Notion](https://img.shields.io/badge/Project_Log-F3F1EA?style=for-the-badge&logo=notion&logoColor=111111)](https://www.notion.so/yumding/ba9d647f152e4e2ca5963190f9d9ea6d)
+[![Notion](https://img.shields.io/badge/Project_Log-F3F1EA?style=for-the-badge&logo=notion&logoColor=111111)](https://yumding.notion.site/YOU-ME-0159c1005eab4abd8d05c06b62f3418e?source=copy_link)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/umingming)
 
 </div>
